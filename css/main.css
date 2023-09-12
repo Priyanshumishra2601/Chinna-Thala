@@ -1977,6 +1977,7 @@
     margin-right: 20px; }
   
   .feature-area {
+      background-color: white;
     padding: 150px 0 120px; }
     @media (max-width: 991px) {
       .feature-area {
